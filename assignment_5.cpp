@@ -322,3 +322,27 @@ int main()
 	}
 	cout << "\b\b. " << endl;
 }
+
+//Error: 0.000001
+
+//Q1A. Root of f(x) = ln(x)-sin(x)
+
+
+//Using Bisection: 2.219108
+//Using Regula Falsi: 2.219107
+//Using Newton Raphson: 2.219107
+
+
+//Q1B. Root of f(x) = ln(x)-sin(x)
+
+
+//Using Bisection: -0.739085
+//Using Regula Falsi: -0.739085
+//Using Newton Raphson: -0.739085
+
+
+//Q3: roots of the polynomial:
+
+//P(x) = +1.000000(x^4) -3.000000(x^3) -7.000000(x^2) +27.000000(x^1) -18.000000
+
+//real roots are: 1.000000, -3.000000, 3.000000, 2.000000. 
